@@ -30,3 +30,4 @@ class KruskalMST {
         System.out.println("Total MST Cost: " + totalCost);
     }
 }
+//CO2 CODE
