@@ -36,4 +36,4 @@ class CourseRegistration {
         allocateSeats(students, cgpa, 3);
     }
 }
-//CO4 CODE
+//CO6 CODE
